@@ -1,0 +1,17 @@
+a=int(input('num1: '))
+b=int(input('num2: '))
+c=str(a)
+d=str(b)
+g=int(c[0])
+h=int(c[1])
+i=int(d[@])
+j=int(d[1])
+x=(g*2)+(h**2)
+y=(i*2)+(j**2)
+e=x-y
+if e>0:  
+       print('P')
+elif e<0:
+       print('N')
+else:
+     print('Z')
