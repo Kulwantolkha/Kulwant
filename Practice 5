@@ -1,1 +1,10 @@
-print("Hii")
+n = int(input(""))
+count = 1
+i=2
+ans = 0
+while(count <= n):
+     if(i%2==0):
+         ans = ans + i
+        count+=1
+     i+=2¬
+print(format(ans/n, '.2f')
