@@ -31,3 +31,4 @@ print(max(x))
 print(min(x))
 # #To remove a element form a set
 print(x.remove(2))
+
